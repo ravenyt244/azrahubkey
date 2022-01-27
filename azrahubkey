@@ -1,1 +1,4 @@
+require(game:GetService("ReplicatedStorage").Framework.Modules.Client["5 | Message"]).New("Link Copied!")
+setclipboard("")
+
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ravenyt244/azrahubkey/main/azrahub"))()
